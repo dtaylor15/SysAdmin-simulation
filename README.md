@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @dtaylor15
-- 👀 I’m interested in technical writing 
-- 🌱 I’m currently learning Python and about APIs
-- 💞️ I’m looking to collaborate on open-source technical documentation
-- 📫 How to reach me taylordb1924@gmail.com
+<h1>Hi, I'm De'Andra, an <a href="www.linkedin.com/in/taylordb1924">IT Professional</a>👍🏾</h1>
 
-<!---
-dtaylor15/dtaylor15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>🧑🏾‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
