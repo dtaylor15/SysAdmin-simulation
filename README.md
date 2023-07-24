@@ -4,6 +4,6 @@
 
 🖥️ <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/dtaylor15/osTicket-Prereqs-Installation)
-  - [osTicket: Admin and User Configuration](https://github.com/dtaylor15/osTicket-Admin-user-configuration)
+  - [osTicket: System Administrative Configuration]()
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 
